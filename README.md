@@ -1,8 +1,6 @@
 <b>Hi, I'm</b> 👋 <h3>Daniel Rodríguez</h3>
 
 Software Engineer from the **Monterrey Institute of Technology**, currently working at **BBVA** 🏦. I have contributed to ensuring the optimal functionality of websites and led projects in network design, developed as an implementer of artificial intelligence models and 3D simulations. Proficient in a wide range of technologies ⚙️. Passionate about problem solving and effective collaboration in multidisciplinary teams. Open to new opportunities in the field of software engineering.
-
-<h3><a href="www.daniel-rdcz.com" target="blank">👜 Portfolio</a></h3>
 <!--
 **daniel-rdcz/daniel-rdcz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
